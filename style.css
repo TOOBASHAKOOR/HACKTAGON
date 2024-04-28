@@ -1,0 +1,57 @@
+
+  
+.container-fluid img{
+ margin-left: 100px;
+}  
+.container-fluid ul li{
+
+    text-align: right;
+}
+.search
+{
+    height: 30px;
+    width: 270px;
+    border: 2px solid blue;
+    border-radius: 15%;
+}
+.search placeholder{
+    color: blue;
+}
+.d-flex{
+    margin-right: 20%;
+}
+.container{
+    display: flex;
+    display: inline;
+    white-space: nowrap;
+
+}
+.main-content{
+    float: left;
+    flex: 1;
+    margin-left: 100px;
+    margin-top: 10%;
+}
+.main-content h1{
+    font-size: 60px;
+}
+.main-content .h1{
+    color:rgb(20, 102, 196);
+}
+.main-content p{
+    margin-top: 5%;
+    font-size: 20px;
+    width: 40%;
+    color: gray;
+ }
+ .main-content button{
+    margin-top: 30px;
+    margin-right: 20px;}
+    .main-content    .btn btn-secondary btn-lg{
+        color: black;
+        background: transparent;
+    }
+    .corona-img {
+       float: right;
+       display: flex;
+    }
